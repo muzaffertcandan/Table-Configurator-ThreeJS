@@ -25,3 +25,94 @@ html {
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
+
+@media screen and (max-width: 600px) {
+  .css-1xpwi39 {
+    padding: 6px !important;
+  }
+  .css-19kzrtu {
+    padding: 8px !important;
+  }
+
+  .MuiBox-root {
+    margin-top: 10px !important;
+  }
+  .css-1demgd8-MuiSlider-root {
+    border-radius: 12px;
+    box-sizing: content-box;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    touch-action: none;
+    color: #1976d2;
+    -webkit-tap-highlight-color: transparent;
+    height: 4px;
+    width: 100%;
+    padding: 13px 0;
+    width: 100px !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.8rem !important;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+}
+.css-j204z7-MuiFormControlLabel-root {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 0px !important;
+}
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+  padding: 4px !important;
+  border-radius: 50%;
+  color: rgba(0, 0, 0, 0.6);
+}
+  /* 
+  .glass{
+    padding: 0;
+  } */
+}
